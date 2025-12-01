@@ -6,7 +6,8 @@ const weight = 68;      // kg
 const height = 1.7;     // m
 
 // BMIを計算
-bmi = weight / (1.7 * 1.7);
+bmi = (weight) / (1.7 * 1.7);
 
 // コンソールに出力
+
 console.log(bmi);
